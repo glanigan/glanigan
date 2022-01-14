@@ -2,7 +2,7 @@
 
 ## I am a Javascript developer, specialising in React 👨🏻‍💻
 - 🔭 Working On - I’m currently working on a fitness app using react and firebase
-- 📚 2022 Goals - Build a fullstack JS/Typescript side project that am actually proud of, try out Go/Rust and learn a little more about Web 3 technologies.
+- 📚 2022 Goals - Build a fullstack JS/TS side project that am actually proud of, try out Go/Rust & learn more about Web 3.
 - ⚡ Fun fact - Trekked the ancient path of the incas :mountain_snow: & survived deepest darkest peru :snake:
 
 ### Connect with me
