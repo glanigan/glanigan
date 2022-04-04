@@ -1,6 +1,6 @@
 # Hello, I'm Gary welcome to my github 👋
 
-### I am a Javascript developer, specialising in React 👨🏻‍💻
+### I am a Senior Javascript developer, specialising in React 👨🏻‍💻
 - 🔭 Working On - 🤷🏻‍♂️
 - 📚 2022 Goals - Build a fullstack JS/TS side project that am actually proud of, try out Go/Rust & learn more about Web 3.
 - ⚡ Fun fact - Trekked the ancient path of the incas :mountain_snow: & survived deepest darkest peru :snake:
