@@ -10,6 +10,6 @@ Engineering Manager at [Checkatrade](https://www.checkatrade.com)
 
 ---
 
-🏔️ Walked the Inca Trail. Survived Peru. Now mostly survive cycle planning.
+🏔️ Walked the Inca Trail. Survived deepest darkest Peru. Now mostly survive cycle planning.
 
 [LinkedIn →](https://www.linkedin.com/in/garylanigan/)
